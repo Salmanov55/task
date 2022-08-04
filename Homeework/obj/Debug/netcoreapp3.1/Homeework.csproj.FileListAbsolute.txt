@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\Homeework\Homeework\bin\Debug\netcoreapp3.1\Homeework.exe
+C:\Users\Aydan\Desktop\Homeework\Homeework\bin\Debug\netcoreapp3.1\Homeework.deps.json
+C:\Users\Aydan\Desktop\Homeework\Homeework\bin\Debug\netcoreapp3.1\Homeework.runtimeconfig.json
+C:\Users\Aydan\Desktop\Homeework\Homeework\bin\Debug\netcoreapp3.1\Homeework.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\Homeework\Homeework\bin\Debug\netcoreapp3.1\Homeework.dll
+C:\Users\Aydan\Desktop\Homeework\Homeework\bin\Debug\netcoreapp3.1\Homeework.pdb
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.dll
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.pdb
+C:\Users\Aydan\Desktop\Homeework\Homeework\obj\Debug\netcoreapp3.1\Homeework.genruntimeconfig.cache
